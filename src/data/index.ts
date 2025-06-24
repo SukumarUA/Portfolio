@@ -102,8 +102,8 @@ export const experiences: Experience[] = [
   {
     title: 'Information Technology Specialist 2(ITS)',
     company: 'State of New York',
-    period: 'Sept 2023 - Present',
-    description: 'Developed and optimized COBOL applications on IBM mainframes, managed DB2 databases, and automated tasks using z/VM and Rexx scripting.',
+    period: 'Sept 2023 - June 2025',
+    description: 'Delivered large-scale modernization by migrating legacy COBOL batch jobs to cloud-native Java microservices, improving efficiency and reliability. Drove containerization, CI/CD automation, and cloud deployments while boosting batch processing success rates.,
   },
   {
     title: 'Application Development Associate',
